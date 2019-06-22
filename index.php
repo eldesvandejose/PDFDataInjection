@@ -20,4 +20,3 @@
 
     $FinalPDFName = $objPDF->getFinalPDFName();
 
-    echo $FinalPDFName;
